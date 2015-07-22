@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/oliverlewis/Downloads/ParseUI-Android-master/MirrorApp/build/intermediates/exploded-aar/ParseAndroidUI/ParseLoginUI/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="10f9535294648b3f764680eaf4ce4a227f69aabc">
+        <dex dex="/Users/oliverlewis/Downloads/ParseUI-Android-master/MirrorApp/build/intermediates/pre-dexed/debug/classes-4c3af96b8a1fafde0448103865a601086c630ae7.jar" />
+    </item>
+    <item
+        jar="/Users/oliverlewis/Downloads/ParseUI-Android-master/MirrorApp/build/intermediates/exploded-aar/com.android.support/design/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="/Users/oliverlewis/Downloads/ParseUI-Android-master/MirrorApp/build/intermediates/pre-dexed/debug/classes-efa97750c2d03c0e1e099a6002303f000e515f36.jar" />
+    </item>
+    <item
+        jar="/Users/oliverlewis/Downloads/ParseUI-Android-master/MirrorApp/build/intermediates/exploded-aar/ParseAndroidUI/ParseLoginUI/unspecified/libs/ParseFacebookUtilsV4-1.9.1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="f78e5603a5ecac14eaa34a763c9165444a681193">
+        <dex dex="/Users/oliverlewis/Downloads/ParseUI-Android-master/MirrorApp/build/intermediates/pre-dexed/debug/ParseFacebookUtilsV4-1.9.1-48b078f5995bdd0bb27fc9413f4f165dc13e0958.jar" />
+    </item>
+    <item
+        jar="/Users/oliverlewis/Downloads/ParseUI-Android-master/ParseLoginUI/libs/ParseFacebookUtilsV4-1.9.1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="f78e5603a5ecac14eaa34a763c9165444a681193">
+        <dex dex="/Users/oliverlewis/Downloads/ParseUI-Android-master/MirrorApp/build/intermediates/pre-dexed/release/ParseFacebookUtilsV4-1.9.1-61da8cb2d9ea43b77ae4892db53c6c8b583dbe86.jar" />
+    </item>
+    <item
+        jar="/Users/oliverlewis/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/oliverlewis/Downloads/ParseUI-Android-master/MirrorApp/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-a45153ca6e1a6645dd5aa001687afe722c5f677e.jar" />
+    </item>
+    <item
+        jar="/Users/oliverlewis/Downloads/ParseUI-Android-master/MirrorApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/oliverlewis/Downloads/ParseUI-Android-master/MirrorApp/build/intermediates/pre-dexed/debug/classes-c1c42e9ebe2ed03f5de06d3da1f10c8805ae0e8a.jar" />
+    </item>
+    <item
+        jar="/Users/oliverlewis/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/Users/oliverlewis/Downloads/ParseUI-Android-master/MirrorApp/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-cdb340aa96d2978cd60487db6ab273b94860022a.jar" />
+    </item>
+    <item
+        jar="/Users/oliverlewis/Downloads/ParseUI-Android-master/MirrorApp/build/intermediates/exploded-aar/ParseAndroidUI/ParseLoginUI/unspecified/libs/Parse-1.9.1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1b065010f3c9d441ede9078aca8eabcd1c81e647">
+        <dex dex="/Users/oliverlewis/Downloads/ParseUI-Android-master/MirrorApp/build/intermediates/pre-dexed/debug/Parse-1.9.1-bf17e49d1b3d759b1c3447672e0fee460f5538e8.jar" />
+    </item>
+    <item
+        jar="/Users/oliverlewis/Downloads/ParseUI-Android-master/MirrorApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="f7188fc9a524a8f965b5aeab74879036f0431080">
+        <dex dex="/Users/oliverlewis/Downloads/ParseUI-Android-master/MirrorApp/build/intermediates/pre-dexed/debug/classes-16988061a7e696bc31994df847ec22816f2e1808.jar" />
+    </item>
+    <item
+        jar="/Users/oliverlewis/Downloads/ParseUI-Android-master/MirrorApp/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/oliverlewis/Downloads/ParseUI-Android-master/MirrorApp/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-da4f304f69ef49c8bee8b20435500469b47d72b0.jar" />
+    </item>
+    <item
+        jar="/Users/oliverlewis/Downloads/ParseUI-Android-master/MirrorApp/build/intermediates/exploded-aar/com.github.kikoso/SwipeableCards/1.1-RELEASE/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="cdb3b203804d4d4fd3051f1acf7e8602c036ad9b">
+        <dex dex="/Users/oliverlewis/Downloads/ParseUI-Android-master/MirrorApp/build/intermediates/pre-dexed/debug/classes-e9d54a4623da6ce2c84c8f522aa19f84a5570579.jar" />
+    </item>
+    <item
+        jar="/Users/oliverlewis/Downloads/ParseUI-Android-master/MirrorApp/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/oliverlewis/Downloads/ParseUI-Android-master/MirrorApp/build/intermediates/pre-dexed/debug/classes-b899aae3c0820f79edf46943a1541b0b09557309.jar" />
+    </item>
+
+</items>

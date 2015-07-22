@@ -1,0 +1,12 @@
+/Users/oliverlewis/Downloads/ParseUI-Android-master/MirrorApp/build/intermediates/classes/debug
+/Users/oliverlewis/Downloads/ParseUI-Android-master/MirrorApp/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-a45153ca6e1a6645dd5aa001687afe722c5f677e.jar
+/Users/oliverlewis/Downloads/ParseUI-Android-master/MirrorApp/build/intermediates/pre-dexed/debug/ParseFacebookUtilsV4-1.9.1-48b078f5995bdd0bb27fc9413f4f165dc13e0958.jar
+/Users/oliverlewis/Downloads/ParseUI-Android-master/MirrorApp/build/intermediates/pre-dexed/debug/classes-e9d54a4623da6ce2c84c8f522aa19f84a5570579.jar
+/Users/oliverlewis/Downloads/ParseUI-Android-master/MirrorApp/build/intermediates/pre-dexed/debug/classes-4c3af96b8a1fafde0448103865a601086c630ae7.jar
+/Users/oliverlewis/Downloads/ParseUI-Android-master/MirrorApp/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-cdb340aa96d2978cd60487db6ab273b94860022a.jar
+/Users/oliverlewis/Downloads/ParseUI-Android-master/MirrorApp/build/intermediates/pre-dexed/debug/classes-efa97750c2d03c0e1e099a6002303f000e515f36.jar
+/Users/oliverlewis/Downloads/ParseUI-Android-master/MirrorApp/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-da4f304f69ef49c8bee8b20435500469b47d72b0.jar
+/Users/oliverlewis/Downloads/ParseUI-Android-master/MirrorApp/build/intermediates/pre-dexed/debug/classes-16988061a7e696bc31994df847ec22816f2e1808.jar
+/Users/oliverlewis/Downloads/ParseUI-Android-master/MirrorApp/build/intermediates/pre-dexed/debug/classes-c1c42e9ebe2ed03f5de06d3da1f10c8805ae0e8a.jar
+/Users/oliverlewis/Downloads/ParseUI-Android-master/MirrorApp/build/intermediates/pre-dexed/debug/Parse-1.9.1-bf17e49d1b3d759b1c3447672e0fee460f5538e8.jar
+/Users/oliverlewis/Downloads/ParseUI-Android-master/MirrorApp/build/intermediates/pre-dexed/debug/classes-b899aae3c0820f79edf46943a1541b0b09557309.jar
